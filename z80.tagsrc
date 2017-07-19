@@ -1,0 +1,48 @@
+C:\C32\MikroEMMB 256\Microchip\Graphics\Primitive.c
+C:\C32\MikroEMMB 256\Microchip\Graphics\DisplayDriver.c
+C:\C32\MikroEMMB 256\MMB\LCDTerminalFont.c
+C:\C32\MikroEMMB 256\MMB\MMB.C
+C:\C32\MikroEMMB 256\FreeRTOS\Source\tasks.c
+C:\C32\MikroEMMB 256\FreeRTOS\Source\list.c
+C:\C32\MikroEMMB 256\FreeRTOS\Source\queue.c
+C:\C32\MikroEMMB 256\FreeRTOS\Source\portable\MPLAB\PIC32MX\port_asm.S
+C:\C32\MikroEMMB 256\FreeRTOS\Source\portable\MPLAB\PIC32MX\port.c
+C:\C32\MikroEMMB 256\Microchip\Usb\HID Host Driver\usb_host_hid_parser.c
+C:\C32\MikroEMMB 256\Microchip\Usb\HID Host Driver\usb_host_hid.c
+C:\C32\MikroEMMB 256\Microchip\Usb\usb_host.c
+C:\C32\MikroEMMB 256\ZX Spectrum\main.c
+C:\C32\MikroEMMB 256\ZX Spectrum\taskLCD.c
+C:\C32\MikroEMMB 256\ZX Spectrum\taskZ80.c
+C:\C32\MikroEMMB 256\ZX Spectrum\taskUSB.c
+C:\C32\MikroEMMB 256\FreeRTOS\Source\portable\MemMang\heap_3.c
+C:\C32\MikroEMMB 256\ZX Spectrum\ZXdisplay.c
+C:\C32\MikroEMMB 256\MMB\LCDTerminal.c
+C:\C32\MikroEMMB 256\ZX Spectrum\usb_config.c
+C:\C32\MikroEMMB 256\Microchip\Image Decoders\jidctint.c
+C:\C32\MikroEMMB 256\Microchip\Image Decoders\JpegDecoder.c
+C:\C32\MikroEMMB 256\ZX Spectrum\jpgKbd.c
+C:\C32\MikroEMMB 256\Microchip\Image Decoders\ImageDecoder.c
+C:\C32\MikroEMMB 256\Graphics JPEG Demo\JPEGImage.c
+C:\C32\MikroEMMB 256\Microchip\MDD File System\SD-SPI.c
+C:\C32\MikroEMMB 256\Microchip\MDD File System\FSIO.c
+C:\C32\MikroEMMB 256\ZX Spectrum\Z80.c
+C:\C32\MikroEMMB 256\ZX Spectrum\ZXROM.c
+C:\C32\MikroEMMB 256\ZX Spectrum\taskLCD.h
+C:\C32\MikroEMMB 256\ZX Spectrum\taskUSB.h
+C:\C32\MikroEMMB 256\ZX Spectrum\taskZ80.h
+C:\C32\MikroEMMB 256\ZX Spectrum\FreeRTOSConfig.h
+C:\C32\MikroEMMB 256\ZX Spectrum\GraphicsConfig.h
+C:\C32\MikroEMMB 256\ZX Spectrum\HardwareProfile.h
+C:\C32\MikroEMMB 256\ZX Spectrum\usb_config.h
+C:\C32\MikroEMMB 256\ZX Spectrum\JPEGImage.h
+C:\C32\MikroEMMB 256\Microchip\Include\Image Decoders\JpegDecoder.h
+C:\C32\MikroEMMB 256\Microchip\Include\Graphics\DisplayDriver.h
+C:\C32\MikroEMMB 256\Microchip\Include\Graphics\Primitive.h
+C:\C32\MikroEMMB 256\MMB\MMB.h
+C:\C32\MikroEMMB 256\MMB\LCDTerminal.h
+C:\C32\MikroEMMB 256\ZX Spectrum\ZXdisplay.h
+C:\C32\MikroEMMB 256\ZX Spectrum\ImageDecoderConfig.h
+C:\C32\MikroEMMB 256\Microchip\Include\MDD File System\FSIO.h
+C:\C32\MikroEMMB 256\ZX Spectrum\FSconfig.h
+C:\C32\MikroEMMB 256\ZX Spectrum\z80.h
+C:\C32\MikroEMMB 256\Microchip\Include\Image Decoders\ImageDecoder.h
